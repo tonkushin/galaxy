@@ -1,6 +1,6 @@
 # Galaxy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4 and [Node.js](https://nodejs.org/en/download) version 18.5.0
 
 ## Development server
 
